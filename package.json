@@ -1,0 +1,22 @@
+{
+  "name": "phantomcss-github-diff",
+  "version": "0.0.1",
+  "description": "A CasperJS module for automating visual regression testing of Web apps, live style guides and responsive layouts. Added options to diff changed files on GitHub",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtothefp/phantomcss-github-diff.git"
+  },
+  "keywords": [
+    "css",
+    "phantomjs",
+    "casperjs",
+    "testing",
+    "visual regression",
+    "responsive"
+  ],
+  "author": "David Fox-Powell / Optimizely",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtothefp/phantomcss-github-diff"
+  }
+}
